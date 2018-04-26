@@ -12,4 +12,6 @@
 ## [Out of Sight, Out of Mind](http://drones.pitchinteractive.com/)
 A visualization of drone strikes in Pakistan since 2004
 
+## [Making Public Tenders More Transparent](https://opentender.eu/sk/)
+
 [http://pitchinteractive.com](http://pitchinteractive.com)
