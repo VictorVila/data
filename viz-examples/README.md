@@ -9,4 +9,7 @@
 ## [Where the population Europe is growing](https://interaktiv.morgenpost.de/europakarte/#5/48.429/11.272/en)
 ![population-europe.jpg](examples/population-europe.jpg)
 
+## [Out of Sight, Out of Mind](http://drones.pitchinteractive.com/)
+A visualization of drone strikes in Pakistan since 2004
+
 [http://pitchinteractive.com](http://pitchinteractive.com)
