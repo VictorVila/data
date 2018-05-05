@@ -12,6 +12,10 @@
 ## [Out of Sight, Out of Mind](http://drones.pitchinteractive.com/)
 A visualization of drone strikes in Pakistan since 2004
 
+## [Lynching in America](https://lynchinginamerica.eji.org/)
+![lynchings_alabama_eji_sm.png](examples/lynchings_alabama_eji_sm.png)
+Interactive exploring, audio, vidéo, repports, ...
+
 ## [Opentender Slovakia](https://opentender.eu/sk/)
 Making Public Tenders More Transparent
 
