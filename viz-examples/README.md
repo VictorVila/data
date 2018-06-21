@@ -21,7 +21,7 @@ Making Public Tenders More Transparent
 
 ## [Visual Intro to Machine Learning Science](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 ![ml.png](ml.png)
-Exwtremely well done
+Extremely well done
 
 ## Dataviz types
 * [Visual Vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
